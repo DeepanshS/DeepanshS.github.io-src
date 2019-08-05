@@ -1,0 +1,18 @@
+*.pdf
+*.png
+.DS_Store
+
+# files
+accomplishments.md
+demo.md
+experience.md
+hero.md
+people.md
+skills.md
+slider.md
+talks.md
+tags.md
+avatar.jpg
+
+# folders
+resources/**
