@@ -1,5 +1,5 @@
 ---
-title: "Synthesis of chabazite/polymer composite membrane for CO2/N2 separation"
+title: "Synthesis of chabazite/polymer composite membrane for $\\text{CO}_2$/$\\text{N}_2$ separation"
 authors:
 - Chenhu Sun
 - admin

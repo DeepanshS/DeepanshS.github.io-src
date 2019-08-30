@@ -21,9 +21,9 @@ organizations:
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- SSNMR of glasses/amorphous materials.
-- Spectral analysis of amorphous materials
-- Library development for NMR spectral analysis
+- ssNMR of glass/amorphous materials.
+- Spectral analysis of amorphous materials.
+- Library development for NMR spectral analysis.
 
 education:
   courses:
@@ -63,15 +63,14 @@ email: "deepansh2012@gmail.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
-user_groups:
-- Researchers
-- Visitors
+# user_groups:
+# - Researchers
+# - Visitors
 ---
 
 I work on developing solid-state magnetic resonance methods for characterizing
-amorphous materials, especially $^{29}$Si NMR.
-I also develop numerical libraries in c and python for simulating magnetic
-resonance spectrum of amorphous and crystalline materials. I am also involved
-in developing library tools for processing and analyzing the solid-state magnetic
-resonance spectrum of disordered and amorphous materials using linear-inversion
-and machine learning approaches.
+amorphous materials. I also develop numerical libraries in C and python for
+simulating magnetic resonance spectrum of amorphous and crystalline materials.
+I am also involved in developing library tools for processing and analyzing the
+solid-state magnetic resonance spectrum of disordered and amorphous materials
+using linear-inversion and machine learning approaches.
