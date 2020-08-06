@@ -2,10 +2,10 @@
 title: csdmpy
 summary: A python support for Core Scientific Dataset Model (CSDM).
 tags:
-- CSDM
-- CSDF
-- Core Scientific Data Model
-- Data Model
+  - CSDM
+  - CSDF
+  - Core Scientific Data Model
+  - Data Model
 
 date: "2019-08-01T00:00:00Z"
 
@@ -17,6 +17,8 @@ image:
   focal_point: Smart
   preview_only: true
 
+# slides: NSF
+
 links:
 # - icon: twitter
 #   icon_pack: fab
@@ -27,7 +29,6 @@ url_source: "https://csdmpy.readthedocs.io/en/latest/"
 url_pdf: ""
 url_slides: ""
 url_video: ""
-
 # Set captions for image gallery.
 # gallery_item:
 # - album: gallery

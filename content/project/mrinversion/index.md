@@ -1,12 +1,14 @@
 ---
-title: mrsimulator
-summary: An incredibly fast solid-state NMR spectrum simulation library.
+title: mrinversion
+summary: Linear inversion of two-dimensional isotropic-anisotropic NMR correlation spectrum.
 tags:
-  - NMR spectrum simulation
-  - mrsimulator
+  - Spectral inversion
+  - Linear inversion
   - ssNMR
+  - CSA
+  - Spinning sidebands
 
-date: "2019-10-15T00:00:00Z"
+date: "2020-07-28T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""
@@ -20,8 +22,8 @@ links:
 #   icon_pack: fab
 #   name: Follow
 #   url: https://twitter.com/georgecushen
-url_code: "https://github.com/DeepanshS/mrsimulator"
-url_source: "https://mrsimulator.readthedocs.io/en/latest/"
+url_code: "https://github.com/DeepanshS/mrinversion"
+url_source: "https://mrinversion.readthedocs.io/en/latest/"
 url_pdf: ""
 url_slides: ""
 url_video: ""
