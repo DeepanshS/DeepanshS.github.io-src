@@ -1,9 +1,12 @@
 ---
 title: mrsimulator
-summary: An incredibly fast solid-state NMR spectrum simulation library.
+summary: A fast solid-state NMR spectrum simulation/analysis library.
 tags:
   - NMR spectrum simulation
   - mrsimulator
+  - Analysis
+  - Czjzek
+  - Simulation
   - ssNMR
 
 date: "2019-10-15T00:00:00Z"

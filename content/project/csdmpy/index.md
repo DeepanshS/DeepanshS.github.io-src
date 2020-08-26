@@ -20,6 +20,8 @@ image:
 # slides: NSF
 
 links:
+  - name: "Article"
+    url: "https://doi.org/10.1371/journal.pone.0225953"
 # - icon: twitter
 #   icon_pack: fab
 #   name: Follow

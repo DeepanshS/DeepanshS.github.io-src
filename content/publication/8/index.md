@@ -1,16 +1,14 @@
 ---
-title: "Core Scientific Dataset Model: A lightweight and portable model and file format for multi-dimensional scientific data"
+title: "Statistical Learning of NMR tensors from 2D Isotropic/Anisotropic Correlation Nuclear Magnetic Resonance Spectra"
 authors:
   - admin
-  - Thomas Vosegaard
-  - Dominique Massiot
   - Philip J. Grandinetti
 
-date: "2020-01-02"
-doi: "10.1371/journal.pone.0225953"
+date: ""
+doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-01-02"
+publishDate: "2020-08-02"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -19,18 +17,24 @@ publishDate: "2020-01-02"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*PLOS ONE*"
-publication_short: "PLOS ONE"
+publication: "*J. Chem. Phys. (submitted)*"
+publication_short: "JCP"
 
-abstract: The Core Scientific Dataset (CSD) model with JavaScript Object Notation (JSON) serialization is presented as a lightweight, portable, and versatile standard for intra- and interdisciplinary scientific data exchange. This model supports datasets with a p-component dependent variable, {U0, …, Uq, …, Up−1}, discretely sampled at M unique points in a d-dimensional independent variable (X0, …, Xk, …, Xd−1) space. Moreover, this sampling is over an orthogonal grid, regular or rectilinear, where the principal coordinate axes of the grid are the independent variables. It can also hold correlated datasets assuming the different physical quantities (dependent variables) are sampled on the same orthogonal grid of independent variables. The model encapsulates the dependent variables’ sampled data values and the minimum metadata needed to accurately represent this data in an appropriate coordinate system of independent variables. The CSD model can serve as a re-usable building block in the development of more sophisticated portable scientific dataset file standards.
+abstract: Many linear inversion problems involving Fredholm integrals of the first kind are frequently encountered in the field of magnetic resonance. One important application is the direct inversion of a solid-state NMR spectrum containing multiple overlapping anisotropic subspectra to obtain a distribution of the tensor parameters. Because of the ill-conditioned nature of this inverse problem, we investigate the use of the TSVD-S-LASSO based regularization method, which (a) stabilizes the solution and (b) promotes sparsity and smoothness in the solution. We also propose a unambiguous representation for the anisotropy parameters using a piecewise polar coordinate system to minimize rank deficiency in the inversion kernel. To obtain the optimum tensor parameter distribution, we implement the k-fold cross-validation, a statistical learning method, to determine the hyperparameters of the regularized inverse problem. In this article, we provide the details of the linear- inversion method along with numerous illustrative applications on purely anisotropic NMR spectra, both synthetic as well as experimental two-dimensional spectra correlating the isotropic and anisotropic frequencies.
 
 # Summary. An optional shortened abstract.
 # summary:
 
 tags:
-  - Multi-dimensional Dataset
-  - CSDM
-  - Universal file-format
+  - Linear Inversion
+  - Statistical learning
+  - NMR tensors
+  - Glass NMR
+  - PASS
+  - MAT
+  - MAF
+  - NMR
+
 featured: true
 
 # links:
@@ -57,7 +61,7 @@ url_video: ""
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: ["csdmpy"]
+projects: ["mrinversion", "mrsimulator"]
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.

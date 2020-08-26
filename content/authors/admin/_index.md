@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoctoral researcher
+role: Postdoctoral research scientist
 
 # Organizations/Affiliations
 organizations:
@@ -21,8 +21,9 @@ organizations:
 # bio: -
 
 interests:
-  - ssNMR of glass/amorphous materials.
-  - Spectral analysis of amorphous materials.
+  - ssNMR of glass/amorphous materials
+  - Statistical/machine-learning methods to solve and analyse NMR of materials.
+  - Spectral/Structural analysis of amorphous materials.
   - Library development for NMR spectral analysis.
 
 education:
@@ -41,7 +42,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: "mailto:deepansh2012@gmail.org" # For a direct email link, use "mailto:test@example.org".
+    link: "mailto:srivastava.89@osu.edu" # For a direct email link, use "mailto:test@example.org".
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/
@@ -58,7 +59,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "deepansh2012@gmail.com"
+email: "srivastava.89@osu.edu"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 # user_groups:
@@ -66,9 +67,8 @@ email: "deepansh2012@gmail.com"
 # - Visitors
 ---
 
-I work on developing solid-state magnetic resonance methods for characterizing
-amorphous and crystalline materials. I also develop numerical libraries in C and
-python for simulating magnetic resonance spectrum of amorphous and crystalline materials.
-I am also involved in developing library tools for processing and analyzing the
-solid-state magnetic resonance spectrum of disordered and amorphous materials
-using linear-inversion and machine learning approaches.
+I work on developing/improving solid-state magnetic resonance methods for better
+characterization of amorphous and crystalline materials. I also develop numerical
+libraries in C and python for simulating, processing, and analyzing the multi-dimensional
+magnetic resonance spectrum of amorphous and crystalline materials using statistical
+learning, linear-inversions, and machine learning approaches.

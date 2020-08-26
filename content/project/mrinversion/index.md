@@ -18,6 +18,8 @@ image:
   focal_point: Smart
 
 links:
+  - name: "Article"
+    url: ""
 # - icon: twitter
 #   icon_pack: fab
 #   name: Follow

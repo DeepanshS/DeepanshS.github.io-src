@@ -1,6 +1,7 @@
 *.pdf
 *.png
 *.tex
+*.temp
 .DS_Store
 
 # files
