@@ -1,6 +1,6 @@
 ---
 title: mrsimulator
-summary: A fast solid-state NMR spectrum simulation/analysis library.
+summary: A fast solid-state NMR spectrum simulation python library for spectral analysis.
 tags:
   - NMR spectrum simulation
   - mrsimulator

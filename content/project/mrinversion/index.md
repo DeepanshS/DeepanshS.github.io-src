@@ -1,6 +1,6 @@
 ---
 title: mrinversion
-summary: Linear inversion of two-dimensional isotropic-anisotropic NMR correlation spectrum.
+summary: Statistical learning-based linear inversion of 2D isotropic/anisotropic NMR correlation spectrum into 3D tensor parameters distribution.
 tags:
   - Spectral inversion
   - Linear inversion
@@ -17,9 +17,9 @@ image:
   caption:
   focal_point: Smart
 
-links:
-  - name: "Article"
-    url: ""
+# links:
+#   - name: "Article"
+#     url: ""
 # - icon: twitter
 #   icon_pack: fab
 #   name: Follow
