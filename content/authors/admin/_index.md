@@ -21,9 +21,9 @@ organizations:
 # bio: -
 
 interests:
-  - ssNMR of glass/amorphous materials
+  - ssNMR of materials
   - Statistical/machine-learning methods to solve and analyse NMR of materials.
-  - Spectral/Structural analysis of amorphous materials.
+  - Spectral/Structural analysis of materials.
   - Library development for NMR spectral analysis.
 
 education:
@@ -46,9 +46,12 @@ social:
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/
-  # - icon: google-scholar
-  #   icon_pack: ai
-  #   link: https://scholar.google.co.uk/
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/deepansh-srivastava
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=3ZAO0jcAAAAJ&hl=en/
   - icon: github
     icon_pack: fab
     link: https://github.com/DeepanshS
@@ -67,8 +70,4 @@ email: "srivastava.89@osu.edu"
 # - Visitors
 ---
 
-I work on developing/improving solid-state magnetic resonance methods for better
-characterization of amorphous and crystalline materials. I also develop numerical
-libraries in C and python for simulating, processing, and analyzing the multi-dimensional
-magnetic resonance spectrum of amorphous and crystalline materials using statistical
-learning, linear-inversions, and machine learning approaches.
+Result-driven research scientist specializes in developing new and improving existing methods in solid-state magnetic resonance for better understanding and characterizing of materials, both amorphous and crystalline, and bio-macromolecules. Recent work focuses on structural elucidation of materials from the 2D NMR spectrum. I am also a passionate developer of high throughput numerical libraries and software for simulating, processing, and analyzing scientific data using a multitude of tools, including statistical learning, linear-inversions, and machine learning. Proficient in C, python, and javascript programming languages, open to others as needed.

@@ -17,9 +17,9 @@ image:
   caption:
   focal_point: Smart
 
-# links:
-#   - name: "Article"
-#     url: ""
+links:
+  - name: "Article"
+    url: "https://doi.org/10.1063/5.0023345"
 # - icon: twitter
 #   icon_pack: fab
 #   name: Follow

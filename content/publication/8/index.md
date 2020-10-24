@@ -5,7 +5,7 @@ authors:
   - Philip J. Grandinetti
 
 date: ""
-doi: ""
+doi: "10.1063/5.0023345"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-08-02"
@@ -17,7 +17,7 @@ publishDate: "2020-08-02"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*J. Chem. Phys. (submitted)*"
+publication: "*J. Chem. Phys.*"
 publication_short: "JCP"
 
 abstract: Many linear inversion problems involving Fredholm integrals of the first kind are frequently encountered in the field of magnetic resonance. One important application is the direct inversion of a solid-state NMR spectrum containing multiple overlapping anisotropic subspectra to obtain a distribution of the tensor parameters. Because of the ill-conditioned nature of this inverse problem, we investigate the use of the TSVD-S-LASSO based regularization method, which (a) stabilizes the solution and (b) promotes sparsity and smoothness in the solution. We also propose a unambiguous representation for the anisotropy parameters using a piecewise polar coordinate system to minimize rank deficiency in the inversion kernel. To obtain the optimum tensor parameter distribution, we implement the k-fold cross-validation, a statistical learning method, to determine the hyperparameters of the regularized inverse problem. In this article, we provide the details of the linear- inversion method along with numerous illustrative applications on purely anisotropic NMR spectra, both synthetic as well as experimental two-dimensional spectra correlating the isotropic and anisotropic frequencies.
